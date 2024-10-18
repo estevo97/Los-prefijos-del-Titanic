@@ -407,3 +407,11 @@
 2024-10-18 01:54:54,624:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
   warnings.warn(
 
+2024-10-18 02:43:45,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 02:43:45,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 02:43:45,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-18 02:43:45,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
