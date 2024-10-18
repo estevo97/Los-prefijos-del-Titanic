@@ -1,0 +1,409 @@
+2024-10-16 13:59:20,013:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 13:59:20,013:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 13:59:20,013:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 13:59:20,013:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:01:40,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:01:40,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:01:40,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:01:40,159:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:02:54,266:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:02:54,281:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:02:54,281:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:02:54,281:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:49:55,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:49:55,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:49:55,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 14:49:55,538:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 15:45:55,587:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 15:45:55,587:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 15:45:55,588:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 15:45:55,588:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 19:22:49,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 19:22:49,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 19:22:49,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-16 19:22:49,913:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 08:59:04,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 08:59:04,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 08:59:04,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 08:59:04,114:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 09:16:38,037:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 09:23:10,325:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 09:25:05,443:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 09:37:37,269:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 11:27:45,459:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 11:27:45,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 11:27:45,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 11:27:45,460:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-10-17 12:44:37,645:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:45:11,858:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:47:49,717:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:48:35,075:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:50:11,548:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:56:55,185:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 12:57:30,175:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:01:31,166:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:01:51,329:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:02:35,629:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:02:47,066:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:02:54,323:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:03:01,968:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 13:03:07,777:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:02,991:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:16,287:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:23,306:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:27,098:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:38,123:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:19:44,711:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:20:41,930:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:20:49,175:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:20:57,296:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:21:00,666:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:21:03,537:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:21:12,642:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:22:26,225:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:22:30,759:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:22:33,258:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:22:36,374:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:23:21,576:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:23:30,093:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:23:48,257:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:23:57,314:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:05,172:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:13,092:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:16,276:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:20,738:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:23,849:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:31,361:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:42,574:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:48,552:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:52,964:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:24:58,752:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:06,378:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:09,018:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:13,626:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:30,696:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:49,363:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:54,320:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:25:58,999:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:26:02,579:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:26:53,121:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:30:57,860:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:32:08,702:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:33:07,071:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 14:34:56,807:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:17:41,848:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:20:22,933:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:20:44,826:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:21:39,087:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:38,703:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:42,784:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:44,361:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:46,013:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:49,868:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:24:57,769:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:25:03,309:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:26:54,676:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:16,605:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:18,188:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:34,603:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:40,651:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:46,252:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:27:57,557:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:01,898:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:03,393:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:13,982:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:24,436:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:40,700:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:49,259:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:50,821:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:28:51,950:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:06,168:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:09,795:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:12,785:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:30,120:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:31,268:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:32,832:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:33,933:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:34,807:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:41,594:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:46,836:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:54,478:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:29:59,195:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:07,444:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:11,932:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:13,107:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:19,861:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:24,068:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:30,068:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:30:50,808:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:32:01,772:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:32:09,416:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:32:10,329:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:32:23,955:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-17 15:32:45,950:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-18 01:41:42,461:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-18 01:54:42,385:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-18 01:54:48,541:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
+2024-10-18 01:54:54,624:WARNING:C:\Users\estev\OneDrive\Documentos\GitHub\mi_nuevo_entorno\lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LogisticRegression was fitted with feature names
+  warnings.warn(
+
