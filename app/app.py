@@ -35,7 +35,7 @@ st.write('**Presentado por: Estevo Arias García**')  # Reemplaza [Tu Nombre] co
 st.sidebar.title('Menú de la Aplicación')
 
 # Cargar imagen
-imagen = Image.open(r'/img/titanic_belf.jpg')
+imagen = Image.open(r'../img/titanic_belf.jpg')
 st.image(imagen, caption='Titanic saliendo de Queenstown el 11 de abril de 1912. Fuente: Wikimedia Commons', use_column_width=True)
 
 # Espacio adicional para un diseño limpio
