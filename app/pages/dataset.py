@@ -15,7 +15,7 @@ st.write("")
 
 st.subheader('"titanic.csv"')
 
-data = pd.read_csv('../data/titanic.csv')
+data = pd.read_csv('data/titanic.csv')
 st.dataframe(data)
 
 st.write("") 
