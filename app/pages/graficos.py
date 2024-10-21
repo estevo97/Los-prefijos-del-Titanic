@@ -14,7 +14,7 @@ st.write("")
 
 
 # Cargar la imagen guardada
-imagen = Image.open('img/sexo_edad_clase.png')
+imagen = Image.open(r'../img/sexo_edad_clase.png')
 
 
 # Mostrar la imagen en la aplicación Streamlit
