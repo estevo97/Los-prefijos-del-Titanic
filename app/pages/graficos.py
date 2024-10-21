@@ -134,13 +134,13 @@ col1, col2 = st.columns(2)
 # En la primera columna (col1)
 with col1:
     st.markdown("##### Número de hermanos por pasajero")
-    df_hermanos = pd.read_csv('../tablas/hermanos.csv')
+    df_hermanos = pd.read_csv('tablas/hermanos.csv')
     st.write(df_hermanos)
 
 # En la segunda columna (col2)
 with col2:
     st.markdown("##### Padres o hijos por pasajero")
-    df_padres_hijos = pd.read_csv('../tablas/padres_hijos.csv')
+    df_padres_hijos = pd.read_csv('tablas/padres_hijos.csv')
     st.write(df_padres_hijos)
          
 st.write("") 
