@@ -8,7 +8,7 @@ from PIL import Image
 
 st.title('Limpieza de datos')
 
-data = pd.read_csv('../data/titanic.csv')
+data = pd.read_csv('data/titanic.csv')
 
 
 
@@ -39,7 +39,7 @@ st.write("")
 
 
 
-data = pd.read_csv('../mi_dataframe.csv')
+data = pd.read_csv('mi_dataframe.csv')
 st.write("### Porcentaje de nulos por columna")
 st.dataframe(data)
 
@@ -82,7 +82,7 @@ Alfred Johnson, William Cahoone Johnson y otros dos que no aparecen en esta list
 La acogida se debió a la cancelación del Philadelphia, que les habría retornado a los Estados Unidos de no ser por las huelgas de los mineros ingleses que privaban de carbón a trenes y trasatlánticos y, por otra parte, al hecho de que el poco carbón disponible iba a ser utilizado para la gran inauguración del Titanic.
 """)
 
-imagen = Image.open(r'../img/huelga_carbon.jpg')
+imagen = Image.open(r'img/huelga_carbon.jpg')
 st.image(imagen, caption='Huelga de carbón de mineros ingleses. Fuente: https://boudewijnhuijgens.getarchive.net/', use_column_width=True)
 
 
