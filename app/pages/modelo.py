@@ -11,7 +11,7 @@ st.title('Modelo predictivo')
 model_path = 'model\model_XGB.pkl'
 
 # Cargar el modelo
-model = joblib.load(model_path)
+model = joblib.load('model\model_XGB.pkl')
 
 st.write("Modelo de regresión logística para predecir la supervivencia")
 
