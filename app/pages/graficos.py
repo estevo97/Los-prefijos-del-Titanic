@@ -56,7 +56,7 @@ st.write("")
 
 
 # Tabla de los tres fares más altos de la familia Cardeza
-df_cargado = pd.read_csv('../tablas/cardeza.csv')
+df_cargado = pd.read_csv('tablas/cardeza.csv')
 
 st.write(df_cargado)
 st.markdown("""
@@ -73,7 +73,7 @@ Estos datos están bien recogidos. De acuerdo con la información disponible en 
 personales suyos se subieron al Titanic en Cherbourg con un ticket conjunto (lo que explicaría el tan elevado coste) y pudieron sobrevivir al ser rescatados en el tercer
 bote salvavidas (Encyclopedia Titanica, 2024)""")
 
-imagen = Image.open('../img/fare1.png')
+imagen = Image.open('img/fare1.png')
 st.image(imagen, caption='Distribución del fare (sin eliminar outliers)', use_column_width=True)
 
 
@@ -84,7 +84,7 @@ st.markdown("""Observando la dispersión en el boxplot, parece necesario tomar m
 Se creará una nueva variable denominada *Log Fare*, que será la que se incluya en el modelo.""")
 
 
-imagen = Image.open('../img/fare2.png')
+imagen = Image.open('img/fare2.png')
 st.image(imagen, caption='Distribución del fare (removiendo outliers)', use_column_width=True)
 
 
@@ -97,7 +97,7 @@ st.markdown("""Algo más del 70% de los pasajeros se embarcaron en Southampton, 
             el 19 % de ellos, y el 8.64 % restante lo hizo en tierras irlandesas (Queenstown).""")
 
 
-imagen = Image.open('../img/embarked1.png')
+imagen = Image.open('img/embarked1.png')
 st.image(imagen, caption='Frecuencia de pasajeros según el lugar de embarque', use_column_width=True)
 
 
@@ -166,7 +166,7 @@ st.write("")
 
 st.markdown("""## Matriz de correlaciones""")
 
-imagen = Image.open('../img/correlaciones.png')
+imagen = Image.open('img/correlaciones.png')
 st.image(imagen, caption='Matriz de correlaciones de las variables', use_column_width=True)
 
 st.markdown("""Destacamos las siguientes relaciones:
@@ -223,7 +223,7 @@ Se les permitió un pasaje gratuíto (Titanic Talks, 2020).
 No obstante, otras fuentes, como el documental *Titanic: Birth of a Legend* (2005), apuntan a que, en realidad, el Guarantee Group tenía como cometido la supervisión de los barcos en cada viaje inaugural, para detectar 
 problemas, típicos en los viajes inaugurales y ofrecer soluciones, información que también corrobora la Encyclopedia Titanica.""")  
 
-df_cargado = Image.open('../img/tique_real.jpg')
+df_cargado = Image.open('img/tique_real.jpg')
 
 st.image(df_cargado, caption='Un ticket de tercera clase del Titanic. Fuente: Flickr', use_column_width=True)
 
@@ -257,7 +257,7 @@ st.markdown("""Pero lo que sin duda llama más la atención de los tickets es el
             tickets (véase en la siguiente gráfica de tarta) y, además, había muchos tipos de prefijos diferentes.""")
 
 
-df_cargado = Image.open('../img/ratio_letras.png')
+df_cargado = Image.open('img/ratio_letras.png')
 
 st.write(df_cargado)
 
@@ -286,7 +286,7 @@ st.write("")
 st.write("")
 
 
-df_cargado = Image.open('../img/ratio_prefijos.png')
+df_cargado = Image.open('img/ratio_prefijos.png')
 
 st.write(df_cargado)
 st.write("") 
@@ -306,10 +306,10 @@ Lo que sí podría tener más sentido es que estos prefijos estuvieran relaciona
             
 Si nos fijamos, todos estos tickets son de Clase 1 y la mayoría embarcaron en **Cherbourg**. Esto apunta a que la compra internacional de tickets del Titanic se hiciese,
 entre otras, a través de esta supuesta compañía, y por personas de muy altopoder adquisitivo.""")
-df_cargado = pd.read_csv('../tablas/PC.csv')
+df_cargado = pd.read_csv('tablas/PC.csv')
 st.write(df_cargado)
 
-df_cargado = Image.open('../img/pc_cherbourg.png')
+df_cargado = Image.open('img/pc_cherbourg.png')
 
 st.write(df_cargado)
 
@@ -331,7 +331,7 @@ Teniendo en cuenta que entre los pasajeros de tercera clase hay unos 2.5 hombres
             
 De nuevo, la duda queda en el aire.""")
 
-df_cargado = pd.read_csv('../tablas/A5.csv')
+df_cargado = pd.read_csv('tablas/A5.csv')
 
 st.write(df_cargado)
 
@@ -352,7 +352,7 @@ Apenas vemos datos relevantes, salvo una curiosidad: la existencia de un **ticke
 ¿Como es esto posible?""")
 
 
-df_cargado = pd.read_csv('../tablas/CA.csv')
+df_cargado = pd.read_csv('tablas/CA.csv')
 
 st.write(df_cargado)
 
@@ -385,7 +385,7 @@ la compañía que vendía este tipo de tickets.""")
 
 st.markdown(""" """)
 
-df_cargado = pd.read_csv('../tablas/STON.csv')
+df_cargado = pd.read_csv('tablas/STON.csv')
 
 st.write(df_cargado)
             
@@ -466,7 +466,7 @@ st.write("")
 st.write("") 
 
 
-df_cargado = Image.open('../img/supervivencia_tickets.png')
+df_cargado = Image.open('img/supervivencia_tickets.png')
 
 st.write(df_cargado)
 
@@ -486,7 +486,7 @@ st.write("")
 
 st.markdown("""### Supervivencia por Clase""")
 
-df_cargado = Image.open('../img/supervivencia_clase.png')
+df_cargado = Image.open('img/supervivencia_clase.png')
 
 st.write(df_cargado)
 
@@ -496,7 +496,7 @@ st.write("")
 st.write("") 
 
 st.markdown("""### Supervivencia por Grupo de Edad""")
-df_cargado = Image.open('../img/supervivencia_edad.png')
+df_cargado = Image.open('img/supervivencia_edad.png')
 
 st.write("") 
 st.write("") 
