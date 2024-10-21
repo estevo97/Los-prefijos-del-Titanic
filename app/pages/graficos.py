@@ -30,7 +30,7 @@ st.markdown("""#### Variables sexo, edad y clase""")
 
 
 # Tabla de la edad máxima y mínima
-df_cargado = pd.read_csv('../tablas/edades.csv')
+df_cargado = pd.read_csv('tablas/edades.csv')
 
 st.write(df_cargado)
 
