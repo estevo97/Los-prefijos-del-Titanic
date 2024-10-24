@@ -1,4 +1,4 @@
-limport streamlit as st
+import streamlit as st
 import pandas as pd
 import numpy as np
 from pycaret.classification import load_model, predict_model
