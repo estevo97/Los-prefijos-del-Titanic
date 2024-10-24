@@ -8,7 +8,7 @@ from PIL import Image
 
 st.title('Modelo predictivo')
 
-model_path = 'model\model_XGB.pkl'
+model_path = 'model/model_XGB.pkl'
 
 # Cargar el modelo
 model = joblib.load(r'model\model_XGB.pkl')
