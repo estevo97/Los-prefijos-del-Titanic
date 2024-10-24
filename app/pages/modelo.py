@@ -1,4 +1,4 @@
-import streamlit as st
+limport streamlit as st
 import pandas as pd
 import numpy as np
 from pycaret.classification import load_model, predict_model
@@ -11,7 +11,7 @@ st.title('Modelo predictivo')
 model_path = 'model/model_XGB.pkl'
 
 # Cargar el modelo
-model = joblib.load(r'model\model_XGB.pkl')
+model = joblib.load(model_path)
 
 st.write("Modelo de regresión logística para predecir la supervivencia")
 
