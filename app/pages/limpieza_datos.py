@@ -83,6 +83,6 @@ La acogida se debió a la cancelación del Philadelphia, que les habría retorna
 """)
 
 imagen = Image.open(r'img/huelga_carbon.jpg')
-st.image(imagen, caption='Huelga de carbón de mineros ingleses. Fuente: https://boudewijnhuijgens.getarchive.net/', use_column_width=True)
+st.image(imagen, caption='Huelga de carbón de mineros ingleses. Fuente: https://boudewijnhuijgens.getarchive.net/', use_container_width=True)
 
 
