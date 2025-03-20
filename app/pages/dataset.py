@@ -84,4 +84,4 @@ st.write("")
 
 df_cargado = Image.open('img/Titanic_voyage_map.png')
 
-st.image(df_cargado, caption='Itinerario del Titanic. Fuente: Wikimedia Commons', use_column_width=True)
+st.image(df_cargado, caption='Itinerario del Titanic. Fuente: Wikimedia Commons', use_container_width=True)
