@@ -36,7 +36,7 @@ st.write(df_cargado)
 
 
 
-st.image(imagen, caption='Distribución por sexo, edad y clase de pasajero', use_column_width=True)
+st.image(imagen, caption='Distribución por sexo, edad y clase de pasajero', use_container_width=True)
 
 st.markdown("""Para este análisis, hemos creado una nueva columna que categoriza la variable *Age* utilizando ocho bloques de edad cada 10 años hasta un último bloque que engloba a los mayores de 70
             años. Podemos destacar los siguiente:""")
@@ -74,7 +74,7 @@ personales suyos se subieron al Titanic en Cherbourg con un ticket conjunto (lo 
 bote salvavidas (Encyclopedia Titanica, 2024)""")
 
 imagen = Image.open('img/fare1.png')
-st.image(imagen, caption='Distribución del fare (sin eliminar outliers)', use_column_width=True)
+st.image(imagen, caption='Distribución del fare (sin eliminar outliers)', use_container_width=True)
 
 
 st.markdown("""Observando la dispersión en el boxplot, parece necesario tomar medidas para deshacernos de los **outliers** en caso de que se quisiese hacer un modelo predictivo. Aunque a continuación
@@ -85,7 +85,7 @@ Se creará una nueva variable denominada *Log Fare*, que será la que se incluya
 
 
 imagen = Image.open('img/fare2.png')
-st.image(imagen, caption='Distribución del fare (removiendo outliers)', use_column_width=True)
+st.image(imagen, caption='Distribución del fare (removiendo outliers)', use_container_width=True)
 
 
 #-----------------------------------------E M B A R K E D -------------------------------------------------------------------------
@@ -98,7 +98,7 @@ st.markdown("""Algo más del 70% de los pasajeros se embarcaron en Southampton, 
 
 
 imagen = Image.open('img/embarked1.png')
-st.image(imagen, caption='Frecuencia de pasajeros según el lugar de embarque', use_column_width=True)
+st.image(imagen, caption='Frecuencia de pasajeros según el lugar de embarque', use_container_width=True)
 
 
 st.write("") 
@@ -167,7 +167,7 @@ st.write("")
 st.markdown("""## Matriz de correlaciones""")
 
 imagen = Image.open('img/correlaciones.png')
-st.image(imagen, caption='Matriz de correlaciones de las variables', use_column_width=True)
+st.image(imagen, caption='Matriz de correlaciones de las variables', use_container_width=True)
 
 st.markdown("""Destacamos las siguientes relaciones:
     
@@ -225,7 +225,7 @@ problemas, típicos en los viajes inaugurales y ofrecer soluciones, información
 
 df_cargado = Image.open('img/tique_real.jpg')
 
-st.image(df_cargado, caption='Un ticket de tercera clase del Titanic. Fuente: Flickr', use_column_width=True)
+st.image(df_cargado, caption='Un ticket de tercera clase del Titanic. Fuente: Flickr', use_container_width=True)
 
 st.markdown("""- Tickets que empiezan por '112...':
 
